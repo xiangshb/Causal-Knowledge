@@ -19,7 +19,7 @@ Some collection of  causal research on causal relation learning on knowledge ent
 # Datasets
 | Name | Website |
 | :----- | :---- |
-| OntoMath$^\text{Edu}$ | http://dev.ipol.im/~facciolo/ |
+| OntoMath$^\text{Edu}$ |  |
 | OpenAlex  | |
 | CausalEdu | |
 | AL-CPL Dataset | https://github.com/harrylclc/AL-CPL-dataset|
