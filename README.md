@@ -13,6 +13,7 @@ Some collection of  causal research on causal relation learning on knowledge ent
 | Finding Prerequisite Relations between Concepts using Textbook | https://github.com/HwHunter/Prerequisite-Relation-Discovery-in-MOOCs |
 | A Meta-Reinforcement Learning Algorithm for Causal Discovery | https://github.com/sa-and/MCD |
 | CausalPlayground | https://github.com/sa-and/CausalPlayground |
+| GIKT | https://github.com/ApexEDM/GIKT |
 
 
 
