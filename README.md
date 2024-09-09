@@ -26,3 +26,10 @@ Some collection of  causal research on causal relation learning on knowledge ent
 | AL-CPL Dataset | https://github.com/harrylclc/AL-CPL-dataset|
 | CHEB-dataset | https://github.com/dayouzi/CHEB |
 | awesome-causality-data | https://github.com/rguo12/awesome-causality-data?tab=readme-ov-file |
+
+
+# Relevant researcher
+| Name | Website |
+| :----- | :---- |
+| Jingxian (Jing) Liao | https://jxliao6.github.io/ |
+| Qingyao Li | https://scholar.google.com/citations?user=PplsT-oAAAAJ&hl=zh-CN&oi=sra |
