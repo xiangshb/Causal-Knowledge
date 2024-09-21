@@ -33,3 +33,10 @@ Some collection of  causal research on causal relation learning on knowledge ent
 | :----- | :---- |
 | Jingxian (Jing) Liao | https://jxliao6.github.io/ |
 | Qingyao Li | https://scholar.google.com/citations?user=PplsT-oAAAAJ&hl=zh-CN&oi=sra |
+
+
+# Knowledge Tracing
+| Paper | Code |
+| :----- | :---- |
+| MonaCoBERT | https://github.com/codingchild2424/MonaCoBERT |
+
