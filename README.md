@@ -16,8 +16,6 @@ Some collection of  causal research on causal relation learning on knowledge ent
 | GIKT | https://github.com/ApexEDM/GIKT |
 
 
-
-
 # Relevant researcher
 | Name | Website |
 | :----- | :---- |
@@ -29,4 +27,10 @@ Some collection of  causal research on causal relation learning on knowledge ent
 | Paper | Code |
 | :----- | :---- |
 | MonaCoBERT | https://github.com/codingchild2424/MonaCoBERT |
+
+
+# Datasets for Learning Causal Effects
+| Name | Website |
+| :----- | :---- |
+| awesome-causality-data | https://github.com/rguo12/awesome-causality-data?tab=readme-ov-file |
 
